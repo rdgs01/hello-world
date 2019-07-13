@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+
+this is where i should write about project
